@@ -1,4 +1,5 @@
 /* ------------------------CZĘŚĆ-GÓRNA-MENU------------------------ */
+@import url('//fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
 
       /* wygląd głównego elementu - ol */
       a{
@@ -6,7 +7,7 @@
         font-weight: 'bold';
         color: #09C;
     }
-    
+
       ol {
         list-style-type:none;
         padding:0;
