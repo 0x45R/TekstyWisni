@@ -1,6 +1,12 @@
 /* ------------------------CZĘŚĆ-GÓRNA-MENU------------------------ */
 
       /* wygląd głównego elementu - ol */
+      a{
+        font-family: 'Nunito', sans-serif;
+        font-weight: 'bold';
+        color: #09C;
+    }
+    
       ol {
         list-style-type:none;
         padding:0;
